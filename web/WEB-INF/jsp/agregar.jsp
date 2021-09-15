@@ -15,7 +15,7 @@
         <div class="container mt-4 col-lg-4">
             <div class="card border-info">
                 <div class="card-header bg-info">
-                    <h4>Agregar Nuevo Registro de usuario/h4>
+                    <h4>Agregar Nuevo Registro/h4>
                 </div>
                 <div class="card-body">
                     <form method="POST">
